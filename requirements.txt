@@ -1,0 +1,12 @@
+django
+fn
+gevent
+requests
+lxml
+beautifulsoup4
+pymongo
+pandas
+jieba
+tensorflow
+keras
+gensim
